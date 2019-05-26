@@ -1,0 +1,1 @@
+//user constructior needs: name, game, raw scores (array?), categories
